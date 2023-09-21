@@ -16,6 +16,8 @@ By the end of this session, you will be able to:
 1. Perform a genome Assembly in Galaxy
 2. Evaluate the quality of your genome
 
+## **[Slides](BGA23_slides.pdf)**
+
 ## Prerequisites
 
 1. Understand the terms genome assembly, reads, contigs, phasing, haplotype, k-mers
