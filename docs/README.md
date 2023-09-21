@@ -2,6 +2,8 @@
 
 This session is part of [**Biodiversity Genomics Academy 2023**](https://BGA23.org)
 
+## [Zoom Link Thu 21 Sep 17:00 UTC](https://sanger.zoom.us/j/92873166987?pwd=M2pMclM4eEwrN3g1eEJpTDEzZFd1QT09)
+
 ## Session Leader(s)
 
 Delphine Lariviere  
